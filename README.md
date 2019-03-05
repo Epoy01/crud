@@ -1,2 +1,2 @@
-# sampl-crud-epoy
+# sample-crud-epoy
 crud sample by epoy
